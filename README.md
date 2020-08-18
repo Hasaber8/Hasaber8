@@ -18,6 +18,12 @@
 
 <br>
 
+![Rohan's github page views](https://komarev.com/ghpvc/?username=Hasaber8)
+
+
+<br>
+<br>
+
   <a href="https://twitter.com/Hasaber8">
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
