@@ -5,7 +5,6 @@
 <p>
   <em>
     I am a 2nd Year undergraduate from <b>DY Patil College of Engineering </b>, Akurdi, Pune</a>. <br>
-    18 years of living a comical life! <br>
     Core team member at https://github.com/PixelExperience and https://github.com/AOSAP <br>
     I Love Android, but iOS is just better xD <br>
     
