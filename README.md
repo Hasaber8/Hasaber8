@@ -1,15 +1,9 @@
-# Rohan Hasabe&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+![Untitled-2](https://user-images.githubusercontent.com/43720061/126747127-ace186c8-de92-47d6-9f6a-acb7de62d7cb.png)
+
 
 <p>
   <em>
-    I am a 2nd Year undergraduate from <b>DY Patil College of Engineering </b>, Akurdi, Pune</a>. <br>
-    Core team member at https://github.com/PixelExperience and https://github.com/hentaiOS <br>
-    I Love Android, but iOS is just better xD <br>
-    
-
-
 <br>
 
 
@@ -17,7 +11,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasaber8&langs_count=10&theme=dracula&layout=compact" alt="Hasaber8 :: Top Langs" /></p>
 
-<br>
 
 ![Rohan's github page views](https://komarev.com/ghpvc/?username=Hasaber8)
 
