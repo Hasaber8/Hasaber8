@@ -23,7 +23,16 @@
 If you ﬁnd some­one with the user­name Hasaber8 on any platform, you can be mostly sure it's me.
 </p>
 
+## 🚀 Languages and Tools:
 
+<p align="left"> 
+  <a href="https://swift.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/swift.png"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
+  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"></a>
+</p>
+   
 ## Stats!
   
 <img src="https://github-readme-stats.vercel.app/api?username=Hasaber8&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
