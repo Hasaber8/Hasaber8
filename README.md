@@ -14,13 +14,14 @@
 </a>
 <a href="https://twitter.com/Hasaber8" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style=“margin-bottom: 5px;” />
+</a>
 <br/>
 
 ## Glad to see you here!
 
 <p>
    Hey! I’m Rohan Hasabe, a 20-year-old Engineering pursuing a Bachelor’s of Engineering, Third Year focused in Information Technology from D.Y.Patil College Of Engineering. I’m popularly known around the internet world as Hasaber8.
-If you ﬁnd some­one with the user­name Hasaber8 on any platform, you can be mostly sure it's me.
+If you ﬁnd some­one with the user­name Hasaber8 on any platform, you can be mostly sure it's me. Currently I work at <a href="https://www.esper.io">Esper.io</a> as a Software Engineering Intern in the EEA Team.
 </p>
 
 ## 🚀 Languages and Tools:
@@ -28,8 +29,6 @@ If you ﬁnd some­one with the user­name Hasaber8 on any platform, you can be 
 <p align="left"> 
   <a href="https://swift.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/swift.png"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
 </p>
    
 ## Stats!
