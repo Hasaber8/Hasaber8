@@ -22,7 +22,7 @@
 
 <p>
    Hey! I’m Rohan Hasabe, a 20-year-old Engineering pursuing a Bachelor’s of Engineering, Third Year focused in Information Technology from D.Y.Patil College Of Engineering. I’m popularly known around the internet world as Hasaber8.
-If you ﬁnd some­one with the user­name Hasaber8 on any platform, you can be mostly sure it's me. Currently I work at <a href="https://www.esper.io">Esper.io</a> as a Software Engineering Intern in the EEA Team.
+If you ﬁnd some­one with the user­name Hasaber8 on any platform, you can be mostly sure it's me. I previously worked at <a href="https://www.esper.io">Esper.io</a> as a Software Engineering Intern in the EFA Team.
 </p>
 
 ## 🚀 Languages and Tools:
