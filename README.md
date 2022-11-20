@@ -1,6 +1,4 @@
-![Frame 3](https://user-images.githubusercontent.com/43720061/165688475-ed789dec-3826-4bf6-8adc-fb9ba3e90415.png)
-
-
+![Frame 3](https://user-images.githubusercontent.com/43720061/202916310-c231d4db-eb32-400b-9008-70de7c3147bd.png)
 
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=Hasaber8"></h2>
 
