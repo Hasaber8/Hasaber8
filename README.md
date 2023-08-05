@@ -1,4 +1,5 @@
-![Frame 3](https://user-images.githubusercontent.com/43720061/202916310-c231d4db-eb32-400b-9008-70de7c3147bd.png)
+![Frame 3](https://github.com/Hasaber8/Hasaber8/assets/43720061/7c28e3f3-e42b-48a6-974a-d2d04de21774)
+
 
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=Hasaber8"></h2>
 
@@ -8,7 +9,7 @@
 <a href="https://linkedin.com/in/hasaber8" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=“margin-bottom: 5px;” />
 </a>
-<a href="https://t.me/Hasaber8" target="_blank">
+<a href="https://t.me/Hasaber6" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://twitter.com/Hasaber8" target="_blank">
@@ -19,15 +20,7 @@
 ## Glad to see you here!
 
 <p>
-   Hey! I’m Rohan Hasabe, a 21-year-old student pursuing a Bachelor’s of Engineering degree, Final Year focused in Information Technology from D.Y.Patil College Of Engineering. I’m popularly known around the internet world as Hasaber8.
-If you ﬁnd some­one with the user­name Hasaber8 on any platform, you can be mostly sure it's me. I'm currently working at <a href="https://www.esper.io">Esper.io</a> as a Software Engineering Intern in the EFA Team.
-</p>
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-  <a href="https://swift.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/swift.png"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"></a>
+   Hey! I'm Rohan Hasabe, a 21-year-old Engineer, currently working out of Bengaluru, India. Currently I work at <a href="https://www.esper.io">Esper.io</a> as a SDE - Android Frameworks. Additionally I take on some DevOps and Cloud tasks within Esper! I’m popularly known around the internet world as Hasaber8. If you ﬁnd some­one with the user­name Hasaber8 on any platform, you can be mostly sure it's me. 
 </p>
    
 ## Stats!
