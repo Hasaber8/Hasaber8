@@ -1,4 +1,4 @@
-![Frame 3](https://github.com/Hasaber8/Hasaber8/assets/43720061/7c28e3f3-e42b-48a6-974a-d2d04de21774)
+
 
 
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=Hasaber8"></h2>
@@ -20,7 +20,7 @@
 ## Glad to see you here!
 
 <p>
-   Hey! I'm Rohan Hasabe, a 22-year-old Engineer, currently working out of Bengaluru, India. Currently I work at <a href="https://www.esper.io">Esper.io</a> as a SDE - Android Frameworks. Additionally I take on some DevOps and Cloud tasks within Esper! I’m popularly known around the internet world as Hasaber8. If you ﬁnd some­one with the user­name Hasaber8 on any platform, you can be mostly sure it's me. 
+   Hey! I'm Rohan Hasabe, a 23-year-old Engineer/Student. I'm pursuing my master's degree in Computer Science @ Northeastern University, Boston. I’m popularly known around the internet world as Hasaber8. If you ﬁnd some­one with the user­name Hasaber8 on any platform, you can be mostly sure it's me. 
 </p>
    
 ## Stats!
