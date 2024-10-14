@@ -22,11 +22,6 @@
 <p>
    Hey! I'm Rohan Hasabe, a 23-year-old Engineer/Student. I'm pursuing my master's degree in Computer Science @ Northeastern University, Boston. I’m popularly known around the internet world as Hasaber8. If you ﬁnd some­one with the user­name Hasaber8 on any platform, you can be mostly sure it's me. 
 </p>
-   
-## Stats!
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Hasaber8&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
 <br><br><br><br>
 
 <!-- Thanks to :- ⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode) -->
